@@ -1,6 +1,6 @@
 {
   "name": "japanese-wotd",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Well, a different Japanese word everyday.",
   "main": "index.js",
   "directories": {
