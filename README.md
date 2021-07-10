@@ -1,7 +1,6 @@
-
 # JP Word Of The Day
 
-Well, a different Japanese word everyday. 
+Well, a different Japanese word everyday.
 
 ## Installation
 
@@ -12,7 +11,7 @@ npm install japanese-wotd
 ## Usage
 
 ```js
-const jwtd = require('japanese-wotd');
+const jwtd = require("japanese-wotd");
 
 async function start() {
   const wtd = await jwtd.getJapaneseWordOfTheDay();
@@ -44,9 +43,11 @@ You'll get something similar to this:
 ```
 
 ## Contributing
+
 Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
 
 Please make sure to update tests as appropriate.
 
 ## License
+
 [MIT](https://choosealicense.com/licenses/mit/)
