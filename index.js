@@ -1,1 +1,1 @@
-module.exports = require('./lib/jpwtd');
+module.exports = require("./lib/jpwtd");
