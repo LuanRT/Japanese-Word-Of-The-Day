@@ -1,0 +1,29 @@
+{
+  "name": "japanese-wotd",
+  "version": "1.0.0",
+  "description": "Well, a different Japanese word everyday.",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LuanRT/Japanese-Word-Of-The-Day.git"
+  },
+  "keywords": [
+    "word-of-the-day",
+    "japanese",
+    "japanese-word-of-the-day",
+    "wotd",
+    "wtd"
+  ],
+  "author": "LuanRT",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/LuanRT/Japanese-Word-Of-The-Day/issues"
+  },
+  "homepage": "https://github.com/LuanRT/Japanese-Word-Of-The-Day#readme"
+}
