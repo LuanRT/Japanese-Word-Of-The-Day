@@ -1,1 +1,2 @@
-# Japanese-Word-Of-The-Day
+## JP Word Of The Day
+
