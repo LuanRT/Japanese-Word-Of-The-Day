@@ -13,10 +13,16 @@
     "type": "git",
     "url": "git+https://github.com/LuanRT/Japanese-Word-Of-The-Day.git"
   },
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.6",
+    "axios": "^0.21.1",
+    "user-agents" : "^1.0.647"
+  },
   "keywords": [
     "word-of-the-day",
     "japanese",
     "japanese-word-of-the-day",
+    "language",
     "wotd",
     "wtd"
   ],
